@@ -46,7 +46,12 @@
     }
   },
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.0"
+    "electron-log": "^4.4.4",
+    "electron-squirrel-startup": "^1.0.0",
+    "imagemin": "^7.0.1",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-pngquant": "^8.0.0",
+    "slash": "^3.0.0"
   },
   "devDependencies": {
     "@electron-forge/cli": "^6.0.0-beta.61",
